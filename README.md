@@ -1,6 +1,6 @@
-# neo — Android（手机版）· Release 仓库
+# neo — Android · Release 仓库
 
-本仓库是 **neo 手机版（Android）的发布仓库**，只放 Release 安装包，不含源码。
+本仓库是 **neo Android 版的发布仓库**，只放 Release 安装包，不含源码。
 
 ## 这是什么
 
